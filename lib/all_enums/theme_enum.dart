@@ -1,0 +1,1 @@
+enum ThemeEnum { dark, light }
